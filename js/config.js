@@ -100,6 +100,7 @@ var l_musicPlaylist = [
 	{youtube: "r605IIE4Zvg", name: "Snail's House - First Love"},
 	{youtube: "hz5lOilAqlQ", name: "Snail's House - My Story"},
 	{youtube: "A29USr0jFqs", name: "Snail's House - Kirara"},
+	{youtube: "UlhOusGdMVA", name: "Steven Universe Soundtrack - Mirror Match"},
 	{youtube: "ks2hGA1yV3Q", name: "Snail's House - Grape Soda"}
 ];
 
